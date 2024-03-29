@@ -20,12 +20,12 @@ import internal.GlobalVariable
 
 
 public class MyKeywords {
-	
+
 	@Keyword
 	def hello() {
 		println('Hallo Gan')
 	}
-	
+
 	@Keyword
 	def helloUser(String user) {
 		println('Halo ' + user)

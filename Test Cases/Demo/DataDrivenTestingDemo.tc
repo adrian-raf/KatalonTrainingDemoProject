@@ -18,14 +18,14 @@
       <variableId>8cda881f-8343-40b1-bc17-536435903021</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'Admin'</defaultValue>
       <description></description>
       <id>3c1ab34c-75d7-43f9-8f5a-037d5e622940</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'admin123'</defaultValue>
       <description></description>
       <id>8cda881f-8343-40b1-bc17-536435903021</id>
       <masked>false</masked>
