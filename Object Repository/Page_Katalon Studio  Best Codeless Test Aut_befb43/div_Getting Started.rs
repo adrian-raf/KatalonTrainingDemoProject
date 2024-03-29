@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Getting Started</name>
+   <tag></tag>
+   <elementGuidId>a5995fd4-ddff-4fd6-a1ec-cfbe75438cab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='katalon_header']/section[2]/div/div/div/div[4]/div[2]/div/div[2]/div/div[3]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fd4e95da-61c6-4846-8593-727d38450502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>b5648da6-f8cb-4f1f-9da2-7e2344842877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-rnd-last-action-id</name>
+      <type>Main</type>
+      <value>806f390d-8727-49be-ae90-4b775a3ed453</value>
+      <webElementGuid>65e0775a-1b23-4395-9bd3-0bd9f9f8241c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Getting Started</value>
+      <webElementGuid>f0aa6e3d-e4b6-41d4-a083-91d690a7595c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;katalon_header&quot;)/section[@class=&quot;rebrand_header&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;left_logo_and_topnav&quot;]/div[@class=&quot;katalon_topnav&quot;]/div[@class=&quot;top_nav_item have_child_menu&quot;]/div[@class=&quot;top_nav_dropdown resources&quot;]/div[@class=&quot;content_container&quot;]/div[@class=&quot;right_content&quot;]/div[@class=&quot;resources_list&quot;]/div[@class=&quot;resources_col&quot;]/a[@class=&quot;resource_item&quot;]/div[@class=&quot;title&quot;]</value>
+      <webElementGuid>9ebabc0a-e1ef-4fb9-9383-0794586000ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='katalon_header']/section[2]/div/div/div/div[4]/div[2]/div/div[2]/div/div[3]/a/div</value>
+      <webElementGuid>76f0029b-6995-40ea-a388-454a5e19aff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Docs'])[1]/following::div[1]</value>
+      <webElementGuid>adac5c2f-31cd-4af0-957a-4aab84e57416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View a Demo'])[1]/following::div[4]</value>
+      <webElementGuid>9deebde4-0b35-4f54-a189-952fa633092f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/preceding::div[2]</value>
+      <webElementGuid>143fba3f-412f-44c0-9e4c-f16e689cb4e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sample Projects on GitHub'])[1]/preceding::div[4]</value>
+      <webElementGuid>c1dc22bb-3c2f-4832-88b3-e08a983cb42b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Getting Started']/parent::*</value>
+      <webElementGuid>0d31f207-5cee-47cb-87c7-4b493a6160fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[2]/div/div[3]/a/div</value>
+      <webElementGuid>67f44318-1fd8-4162-87e6-9965a102061f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Getting Started' or . = 'Getting Started')]</value>
+      <webElementGuid>0861990f-7ba2-4791-8257-2e74aa3c0fff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

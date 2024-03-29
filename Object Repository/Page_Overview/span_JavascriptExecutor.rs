@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_JavascriptExecutor</name>
+   <tag></tag>
+   <elementGuidId>44fb1a56-c61c-490e-b259-7e15a21505ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='HasCapabilities'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>966ad883-af13-4ddf-ab97-266cb5e0ffda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>interfaceName</value>
+      <webElementGuid>ad921046-54fa-4d48-a029-a474ad5ed2cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JavascriptExecutor</value>
+      <webElementGuid>f6106ed4-61b6-4afd-a361-d7b9858a3538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;indexContainer&quot;]/section[1]/ul[1]/li[8]/a[1]/span[@class=&quot;interfaceName&quot;]</value>
+      <webElementGuid>65778888-a061-4566-904a-16bcc9841986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Overview/iframe_packageFrame</value>
+      <webElementGuid>41ba2b8e-97ac-441a-9508-0d0f6ac6edf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HasCapabilities'])[1]/following::span[1]</value>
+      <webElementGuid>0ab10a4a-6986-4fb9-9f22-072c427afb6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HasAuthentication'])[1]/following::span[2]</value>
+      <webElementGuid>43369579-1011-4022-9b52-6563e218058e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OutputType'])[1]/preceding::span[1]</value>
+      <webElementGuid>a0fe0f35-bd8d-47e1-8a82-d26c4f9621bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PrintsPage'])[1]/preceding::span[2]</value>
+      <webElementGuid>bfc0ae4e-17b5-438e-b42e-b9f6f810bfb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JavascriptExecutor']/parent::*</value>
+      <webElementGuid>f78bd80f-e64c-48df-ba8f-b51e8475733f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a/span</value>
+      <webElementGuid>d538ecfe-e1fe-4886-8261-57925ec4b692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'JavascriptExecutor' or . = 'JavascriptExecutor')]</value>
+      <webElementGuid>b4055daa-8412-4b06-a7f7-44c971e1d947</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

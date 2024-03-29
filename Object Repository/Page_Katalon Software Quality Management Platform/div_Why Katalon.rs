@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Why Katalon</name>
+   <tag></tag>
+   <elementGuidId>3170128a-1653-44e7-b108-bbbba874261c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.top_nav_title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='katalon_header']/section[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef5149f6-b5a3-4d2b-8e5b-384cb6c9e65d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>top_nav_title</value>
+      <webElementGuid>7be03ca0-d5bd-455e-90a3-8443495e641b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Why Katalon</value>
+      <webElementGuid>f82e43a2-5ffa-4fae-812e-fd02f46f8f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;katalon_header&quot;)/section[@class=&quot;rebrand_header&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;left_logo_and_topnav&quot;]/div[@class=&quot;katalon_topnav&quot;]/div[@class=&quot;top_nav_item have_child_menu&quot;]/div[@class=&quot;top_nav_title&quot;]</value>
+      <webElementGuid>6f74e1cc-8e26-4fd7-b378-44145277d51e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='katalon_header']/section[2]/div/div/div/div/div</value>
+      <webElementGuid>a8822de2-672e-40fa-bdff-b576ba6b3116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/following::div[5]</value>
+      <webElementGuid>70050aee-d013-4195-acec-fba2850fce3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/following::div[5]</value>
+      <webElementGuid>fab983bb-247c-405d-86e6-532721467a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Katalon'])[2]/preceding::div[1]</value>
+      <webElementGuid>6e42646b-a166-4ab7-a2f7-a8705bd37517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read more'])[1]/preceding::div[3]</value>
+      <webElementGuid>1fe91515-408e-4ebf-bca2-c0d5e3d0d0be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Why Katalon']/parent::*</value>
+      <webElementGuid>852b760c-10dc-46f0-a9e4-eae8fa318434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/div/div</value>
+      <webElementGuid>e14489e2-d89c-4447-bba6-96cd175b0aff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Why Katalon' or . = 'Why Katalon')]</value>
+      <webElementGuid>040f0826-e230-40ab-83d2-ad9a18ea8648</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

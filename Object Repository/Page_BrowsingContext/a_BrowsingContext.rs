@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BrowsingContext</name>
+   <tag></tag>
+   <elementGuidId>197e5578-46c2-4bb4-9371-36362188e228</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.colConstructorName > code > span.memberNameLink > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'BrowsingContext')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1c90fcb9-fe6a-4f05-ac89-719c7e0f353b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#%3Cinit%3E(org.openqa.selenium.WebDriver,java.lang.String)</value>
+      <webElementGuid>a3e95b2e-025b-4497-8ab7-1120018c08a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BrowsingContext</value>
+      <webElementGuid>924315c3-62c8-4960-b2b7-4e997b7898b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;contentContainer&quot;]/div[@class=&quot;summary&quot;]/ul[@class=&quot;blockList&quot;]/li[@class=&quot;blockList&quot;]/section[2]/ul[@class=&quot;blockList&quot;]/li[@class=&quot;blockList&quot;]/table[@class=&quot;memberSummary&quot;]/tbody[1]/tr[@class=&quot;altColor&quot;]/th[@class=&quot;colConstructorName&quot;]/code[1]/span[@class=&quot;memberNameLink&quot;]/a[1]</value>
+      <webElementGuid>536c8335-3f44-40d2-95b7-76659810808c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_BrowsingContext/iframe_classFrame</value>
+      <webElementGuid>c34bfcc5-0c49-434b-b3e0-e02efa0e031d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BrowsingContext')]</value>
+      <webElementGuid>68c56d7a-e0a8-4142-a5f7-772570ba231f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[2]/following::a[1]</value>
+      <webElementGuid>3a3af677-9834-4dc4-b3e6-e3ffb875be4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WebDriver'])[1]/preceding::a[1]</value>
+      <webElementGuid>1f4430ba-38cb-41df-9207-2bcd90b58906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#%3Cinit%3E(org.openqa.selenium.WebDriver,java.lang.String)')]</value>
+      <webElementGuid>7399d7de-e859-4fe7-91ab-420129dec910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/ul/li/table/tbody/tr[2]/th/code/span/a</value>
+      <webElementGuid>48bc948c-7891-4196-898d-43b4bd1cc5d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#%3Cinit%3E(org.openqa.selenium.WebDriver,java.lang.String)' and (text() = 'BrowsingContext' or . = 'BrowsingContext')]</value>
+      <webElementGuid>b0f15367-6dc9-4837-a79a-aafcd14dba17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
