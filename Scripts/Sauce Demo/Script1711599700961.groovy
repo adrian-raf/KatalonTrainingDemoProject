@@ -39,3 +39,5 @@ WebUI.verifyElementPresent(findTestObject('Page_Swag Labs/span_icon angka_jumlah
 
 WebUI.click(findTestObject('Page_Swag Labs/Button checkout after choose product'))
 
+WebUI.closeBrowser()
+
