@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Sauce Labs Backpackcarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.29.99Add to cart</name>
+   <name>div_Sauce Labs Backpackcarry.allTheThings() with the sleek,</name>
    <tag></tag>
    <elementGuidId>1c166534-2fe2-4af2-846c-9be4bbba7ad7</elementGuidId>
    <selectorCollection>
