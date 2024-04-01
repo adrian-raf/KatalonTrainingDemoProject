@@ -31,7 +31,7 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Swag Labs/div_
 
 WebUI.verifyElementNotPresent(findTestObject('Page_Swag Labs/span_icon angka_jumlah barang yang dicheckout'), 1)
 
-WebUI.click(findTestObject('Page_Swag Labs/button_Add to cart backpack'))
+WebUI.click(findTestObject('Page_Swag Labs/button_Add to cart'))
 
 WebUI.click(findTestObject('Page_Swag Labs/button_Add to cart bolt-t-shirt'))
 

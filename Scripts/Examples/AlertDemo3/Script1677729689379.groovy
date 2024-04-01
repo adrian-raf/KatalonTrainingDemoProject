@@ -25,6 +25,8 @@ WebUI.click(findTestObject('Object Repository/Page_The Internet/button_Click for
 
 WebUI.setAlertText('Adrian')
 
+WebUI.waitForAlert(2)
+
 WebUI.acceptAlert()
 
 WebUI.verifyTextPresent('You entered: Adrian', false)

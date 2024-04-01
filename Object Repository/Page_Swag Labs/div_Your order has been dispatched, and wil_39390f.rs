@@ -6,12 +6,12 @@
    <elementGuidId>09175b0e-87d5-4999-80da-be545cb7c56d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.complete-text</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='checkout_complete_container']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.complete-text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e7f54ef8-f596-409c-8599-0ad0d16b1afa</webElementGuid>
+      <webElementGuid>943e53d4-8022-4df7-b2e6-f417bfe942e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>complete-text</value>
-      <webElementGuid>61559f1f-0565-4a57-99b3-e1eac0bf36de</webElementGuid>
+      <webElementGuid>4d79d750-c0da-4bca-9775-77d052d68d80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>complete-text</value>
-      <webElementGuid>9057b21b-8c75-45ff-ab82-a48c4af8ea2c</webElementGuid>
+      <webElementGuid>35125891-4122-48e7-a16b-9ef881d87ecd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Your order has been dispatched, and will arrive just as fast as the pony can get there!</value>
-      <webElementGuid>8b3ea053-de15-4bda-9a2a-f54c0e5dcc6f</webElementGuid>
+      <webElementGuid>9cadf9c9-2696-4834-8c7c-428171fc90ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;checkout_complete_container&quot;)/div[@class=&quot;complete-text&quot;]</value>
-      <webElementGuid>d75fdabe-7ae3-4c8f-b116-fed34be609a5</webElementGuid>
+      <webElementGuid>56c9709c-c85b-4bfe-867a-bb58abe1103a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='checkout_complete_container']/div</value>
-      <webElementGuid>71b8ee2c-eb5c-4a94-bab9-00587c4684ed</webElementGuid>
+      <webElementGuid>ce61c478-12e2-466a-8d10-e9d82b0df616</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for your order!'])[1]/following::div[1]</value>
-      <webElementGuid>ea7ce45e-4bc2-41c8-80b9-85275d6b48ca</webElementGuid>
+      <webElementGuid>40cf3c8a-2a72-4728-9d6e-bbe1c13146ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout: Complete!'])[1]/following::div[2]</value>
-      <webElementGuid>6b7c7024-ed17-4e1c-9b8c-13198414865a</webElementGuid>
+      <webElementGuid>b8116925-bed7-41c3-93df-c20760b7a27a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back Home'])[1]/preceding::div[1]</value>
-      <webElementGuid>3e3dd723-69ea-45a7-8c26-b3db8018c180</webElementGuid>
+      <webElementGuid>ed3240e0-91c1-4e42-8613-1c5b49f75d35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::div[1]</value>
-      <webElementGuid>b8271e29-8939-4b88-acd6-7b0d44b5216d</webElementGuid>
+      <webElementGuid>74f9aea6-f741-48aa-8fb1-1fb02b785513</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Your order has been dispatched, and will arrive just as fast as the pony can get there!']/parent::*</value>
-      <webElementGuid>154da645-2950-4d43-8c62-a875746e3798</webElementGuid>
+      <webElementGuid>111175d8-58b5-4e31-8e3c-e2b8fa738774</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/div</value>
-      <webElementGuid>5f7c2537-3bb9-4569-9ac4-bf3afcc01dc6</webElementGuid>
+      <webElementGuid>aaa08717-42e8-4764-89f3-ff613b2ac860</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Your order has been dispatched, and will arrive just as fast as the pony can get there!' or . = 'Your order has been dispatched, and will arrive just as fast as the pony can get there!')]</value>
-      <webElementGuid>87f8f08b-a627-48ef-b97c-fcc9553e136b</webElementGuid>
+      <webElementGuid>6e38a05c-e602-4e60-8cda-5cf6e764749f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

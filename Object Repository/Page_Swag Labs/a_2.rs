@@ -6,12 +6,12 @@
    <elementGuidId>e01bdfae-6603-4e62-9021-df2b491554d0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.shopping_cart_link</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='shopping_cart_container']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.shopping_cart_link</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8b4c8b83-cf0b-4ec4-8ec8-f7487246d3ce</webElementGuid>
+      <webElementGuid>6e1bef01-f70e-4609-b2fa-687a6c4670a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>shopping_cart_link</value>
-      <webElementGuid>a6c50ef4-b61b-4f42-bd4d-c22e1a5e3de9</webElementGuid>
+      <webElementGuid>71cb09c4-2d1c-41f4-bd2d-39b630c15ff3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>shopping-cart-link</value>
-      <webElementGuid>1fd4921e-99b1-4942-8c98-26504e85bce3</webElementGuid>
+      <webElementGuid>187ce480-d8b8-406a-8fa1-5458b6878013</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>c298dd58-639f-4d6b-8a42-01b28ee4b46b</webElementGuid>
+      <webElementGuid>849ff8d5-284b-4882-b171-acc693e5deb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;shopping_cart_container&quot;)/a[@class=&quot;shopping_cart_link&quot;]</value>
-      <webElementGuid>d4bf06a5-78c2-4904-824b-495d9e14cbb9</webElementGuid>
+      <webElementGuid>0bad6008-cab8-4d1b-bb33-18be20138eab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='shopping_cart_container']/a</value>
-      <webElementGuid>cecb9212-954b-4a20-bcda-ee09e4a177bc</webElementGuid>
+      <webElementGuid>ce265203-89a8-475f-b0e8-e803269262b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::a[1]</value>
-      <webElementGuid>e90edb58-099f-4251-b842-576416b1eaf5</webElementGuid>
+      <webElementGuid>ad02603e-eb6f-4ed7-bdb0-05b4025ec4e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/following::a[1]</value>
-      <webElementGuid>ac1e746e-7a8a-4457-bce0-26a092e9c7b2</webElementGuid>
+      <webElementGuid>b543deb6-1e8f-49ab-bd7a-00b371f8a035</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/preceding::a[1]</value>
-      <webElementGuid>6108c717-1164-4776-ae72-9b6a8956c3b5</webElementGuid>
+      <webElementGuid>55d37bb6-7b15-4053-81f7-701ed683c955</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Name (A to Z)'])[1]/preceding::a[1]</value>
-      <webElementGuid>5794aff5-49ec-4399-a587-deef9a89d291</webElementGuid>
+      <webElementGuid>c8cf187e-43a5-4719-b3b6-1bc8f62c284d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/a</value>
-      <webElementGuid>4ace414b-6edc-425d-9c0e-e256e243bb69</webElementGuid>
+      <webElementGuid>8af0529d-1afb-4a00-b0bf-184da51fffb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = '2' or . = '2')]</value>
-      <webElementGuid>3412e452-58f4-4978-adc2-48190ebd5d31</webElementGuid>
+      <webElementGuid>8af5eb52-6c4c-414a-a9d4-e67e9652f996</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

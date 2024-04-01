@@ -6,12 +6,12 @@
    <elementGuidId>48302743-c7ed-4e9e-8089-e9619c436af4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#back-to-products</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='back-to-products']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#back-to-products</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>66af5677-9f09-42b6-90a9-76f6eb76b561</webElementGuid>
+      <webElementGuid>4a5fe331-1eb7-41ec-9df2-07aaf1b8136a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn_primary btn_small</value>
-      <webElementGuid>5b792f10-2730-424c-a7b1-c5e9a561f7c9</webElementGuid>
+      <webElementGuid>4bbeb0b4-377a-4127-9ae1-4bcaea43c165</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>back-to-products</value>
-      <webElementGuid>dc1809ac-576a-4487-b69d-943c297bdcc2</webElementGuid>
+      <webElementGuid>03f956d0-3319-4f75-a088-80311c0ad609</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>back-to-products</value>
-      <webElementGuid>944bbbb3-fcd1-463b-923b-6335c341d606</webElementGuid>
+      <webElementGuid>7c98c019-0b4a-4b8a-9f8a-474265edca83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>back-to-products</value>
-      <webElementGuid>8a67f9a7-b99d-474f-a632-340013fd8e4c</webElementGuid>
+      <webElementGuid>7a305b8e-d706-4253-af5d-c86fd15584e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Back Home</value>
-      <webElementGuid>99a50fcf-8aed-435a-b526-8d4122bc6ccf</webElementGuid>
+      <webElementGuid>741e08c1-62ac-424e-83a4-00cf8777d3b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;back-to-products&quot;)</value>
-      <webElementGuid>a18e7d61-b603-4537-964c-2dd981ea6ab4</webElementGuid>
+      <webElementGuid>016814ab-20fd-4125-aed3-6b50687b83c6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='back-to-products']</value>
-      <webElementGuid>6eba77d5-7eb2-4488-93fa-de0800c4eb20</webElementGuid>
+      <webElementGuid>d72b0d40-4c9f-4c18-84b5-897f105f1a1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='checkout_complete_container']/button</value>
-      <webElementGuid>98207835-925a-4001-bced-4f007ffb0f90</webElementGuid>
+      <webElementGuid>2dc2d8c9-ff7f-4402-b8a6-efde06e02cb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your order has been dispatched, and will arrive just as fast as the pony can get there!'])[1]/following::button[1]</value>
-      <webElementGuid>03d3e307-4ac6-41e6-8fa2-fd9654ead6f4</webElementGuid>
+      <webElementGuid>78d87cbe-f3e6-472c-8bc8-4858560b9d3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for your order!'])[1]/following::button[1]</value>
-      <webElementGuid>7ed1809f-c668-48ec-80ae-4dae974436f9</webElementGuid>
+      <webElementGuid>86392e58-dcc9-4c46-91c3-4903a35f24a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::button[1]</value>
-      <webElementGuid>90595f11-74e8-4454-9d34-d2f15d4f8b96</webElementGuid>
+      <webElementGuid>90bd624e-956e-471b-9c2d-fb90ee01a2a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::button[1]</value>
-      <webElementGuid>6456e8cf-a28a-4881-9f0d-2c26a5b2db14</webElementGuid>
+      <webElementGuid>5b867568-1b32-4747-9e53-b3b7a4bfbe04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Back Home']/parent::*</value>
-      <webElementGuid>7704b574-41ff-46d2-86fd-11e169eb1c2c</webElementGuid>
+      <webElementGuid>62ba977e-9b21-4ba8-8a1c-f5dbdbae4d16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>3f8d3298-6bd2-45a9-a6dc-36a9ce31edf3</webElementGuid>
+      <webElementGuid>678b3b1d-6fe6-4288-9c40-590c117c61b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'back-to-products' and @name = 'back-to-products' and (text() = 'Back Home' or . = 'Back Home')]</value>
-      <webElementGuid>dff48b68-0b0c-470a-8cfc-b9419bf8cd13</webElementGuid>
+      <webElementGuid>243cade5-9e3f-4d6e-9006-77981e94f679</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

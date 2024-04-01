@@ -21,71 +21,48 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.saucedemo.com/')
 
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_user-name'))
+
 WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_user-name'), 'standard_user')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_password'), 'qcu24s4901FyWDTwXGr6XA==')
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_login-button'))
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Swag Labs'))
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart'))
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Open Menu'))
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_All Items'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_About'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/img_Name (A to Z)_inventory_item_img'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Back to products'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart backpack'))
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart_1_2'))
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Remove'))
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Sauce Labs Backpack'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Back to products'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart bolt-t-shirt'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Add to cart backpack'))
-
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_2'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Checkout'))
 
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Checkout in chart page'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Checkout Your Information_firstName'), 'adri')
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Checkout Your Information_firstName'), 'Adri')
 
 WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Checkout Your Information_lastName'), 'rafly')
 
-WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Checkout Your Information_postalCode'), '1045')
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Checkout Your Information_postalCode'), '1111')
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Cancel_continue'))
 
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Price Total'))
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Total 64.78'))
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Finish'))
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/h2_Thank you for your order'))
+WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Your order has been dispatched, and wil_39390f'))
+WebUI.verifyElementText(findTestObject('Page_Swag Labs/h2_Thank you for your order'), 'Thank you for your order!')
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Swag Labs'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Swag Labs/img_Checkout Complete_pony_express'))
 
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/body_You need to enable JavaScript to run t_a2df65'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Swag Labs'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/h2_Thank you for your order'))
-
-WebUI.click(findTestObject('Object Repository/Page_Swag Labs/div_Your order has been dispatched, and wil_39390f'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Swag Labs/div_Your order has been dispatched, and wil_39390f'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Back Home'))
+
+WebUI.closeBrowser()
 
